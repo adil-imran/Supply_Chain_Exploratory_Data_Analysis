@@ -1,1 +1,2 @@
 goodsale.csv filter=lfs diff=lfs merge=lfs -text
+goodsdaily.csv filter=lfs diff=lfs merge=lfs -text
